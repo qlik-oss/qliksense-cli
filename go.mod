@@ -20,7 +20,7 @@ require (
 	github.com/Shopify/ejson v1.2.1
 	github.com/aws/aws-sdk-go v1.28.9 // indirect
 	github.com/bugsnag/bugsnag-go v1.5.3 // indirect
-	github.com/containers/image/v5 v5.1.0
+	github.com/containers/image/v5 v5.30.1
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/go-git/go-git/v5 v5.1.0
 	github.com/gobuffalo/envy v1.9.0 // indirect
