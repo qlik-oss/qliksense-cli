@@ -6,7 +6,7 @@ replace (
 	github.com/docker/docker => github.com/moby/moby v0.7.3-0.20190826074503-38ab9da00309
 	golang.org/x/sys => golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
 
-	k8s.io/apimachinery => k8s.io/apimachinery v0.17.0
+	k8s.io/apimachinery => k8s.io/apimachinery v0.17.9
 	k8s.io/client-go => k8s.io/client-go v0.17.0
 	k8s.io/kubectl => k8s.io/kubectl v0.0.0-20191219154910-1528d4eea6dd
 
@@ -53,7 +53,7 @@ require (
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.17.2
 	k8s.io/apiextensions-apiserver v0.17.2
-	k8s.io/apimachinery v0.17.2
+	k8s.io/apimachinery v0.17.9
 	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/kubectl v0.17.2
 	sigs.k8s.io/kustomize/api v0.3.2
