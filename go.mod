@@ -38,7 +38,7 @@ require (
 	github.com/mattn/go-colorable v0.1.4
 	github.com/mattn/go-tty v0.0.3
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/otiai10/copy v1.1.1
+	github.com/otiai10/copy v1.14.1
 	github.com/pkg/errors v0.9.1
 	github.com/qlik-oss/k-apis v0.1.16
 	github.com/robfig/cron/v3 v3.0.1
