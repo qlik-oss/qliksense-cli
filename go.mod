@@ -43,7 +43,7 @@ require (
 	github.com/qlik-oss/k-apis v0.1.16
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/rogpeppe/go-internal v1.5.2 // indirect
-	github.com/spf13/cobra v0.0.6
+	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.6.1
 	golang.org/x/crypto v0.0.0-20200311171314-f7b00557c8c4 // indirect
 	golang.org/x/exp v0.0.0-20200119233911-0405dc783f0a // indirect
